@@ -10,11 +10,11 @@ task2 -> It depends exclusively on the size of the array2, because "the for" goe
 
 task3 -> This question will depend on what condition she finds, there are 3 situations:
 
-                  1) O(n)=1, There will be no change.
-
-           O(n) = 2) O(n) =2n, remove some caracther
+                   1) O(n)=1, There will be no change.
+ 
+            O(n) = 2) O(n) =2n, remove some caracther.
    
-                  3) O(n) = 2n, add some caracther.
+                   3) O(n) = 2n, add some caracther.
 
 
 Remove or add some caracther will do goes throught a "while" and "for". Even with different sizes the other array will be with (Blank) " ", therefore goes throught a valor of n. The sum of (n + n) while and for is iqual a 2n.
